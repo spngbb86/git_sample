@@ -1,2 +1,3 @@
-msg='Hello World'
-print(msg)
+a=5
+b=3
+print(a+b)
